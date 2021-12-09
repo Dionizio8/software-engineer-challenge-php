@@ -1,6 +1,6 @@
-# Teste Backend PicPay
+# Teste Backend
 
-O projeto tem como objetivo cumprir o desafio proposto pela equipe técnica da **PicPay**.
+O projeto tem como objetivo cumprir o desafio
 
 ---
 
